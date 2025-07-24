@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: music-quality-control-analysis
+    env: python
+    buildCommand: ""
+    startCommand: ./start.sh
+    autoDeploy: true
