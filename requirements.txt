@@ -5,3 +5,4 @@ pydub
 ffmpeg-python
 Pillow
 pyloudnorm
+python-multipart
